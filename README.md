@@ -1,1 +1,1 @@
-# Vib-Cav
+# Vibration-based cavitation detection
